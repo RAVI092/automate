@@ -6,6 +6,7 @@ public class Cls1 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Class1");
+		System.out.println("Copy Of Class1");
 
 	}
 
